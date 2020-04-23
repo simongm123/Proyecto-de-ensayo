@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication, QWidget
 from PyQt5.uic import loadUi
 import sys
 import numpy as np
-
+#hola mundo
 
 class Ventana_Principal(QWidget):
     def __init__(self):
